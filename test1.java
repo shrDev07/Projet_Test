@@ -6,5 +6,10 @@ public class test1
       {
          System.out.println("premier test je n'affiche pas i");
       }
+      for (int i=5; i<10;i++)
+      {
+         System.out.println("second test");
+      }
+
    }
 }
