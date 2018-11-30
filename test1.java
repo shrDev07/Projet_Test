@@ -4,7 +4,7 @@ public class test1
    {
       for (int i=0; i<5;i++)
       {
-         System.out.println("premier test");
+         System.out.println("premier test je n'affiche pas i");
       }
    }
 }
