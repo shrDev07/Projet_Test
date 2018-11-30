@@ -8,6 +8,10 @@ public class test1
       }
       for (int i=5; i<10;i++)
       {
+<<<<<<< HEAD
+         System.out.println("premier 2eme ligne");
+      }
+=======
          System.out.println("second test");
       }
 
